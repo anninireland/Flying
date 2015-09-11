@@ -1,0 +1,5 @@
+# flying
+Semester Project for OO Programming I (Python)
+
+This program determines the most cost-effective travel route among a group of airports based on a fictitious pricing scheme for flights. 
+The GUI accepts direct inputs for individuals as well as batch uploading of csv files. 
